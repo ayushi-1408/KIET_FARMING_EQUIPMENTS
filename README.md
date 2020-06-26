@@ -18,9 +18,9 @@
 ![a](https://user-images.githubusercontent.com/60479969/85885855-a96a9000-b802-11ea-9bac-d4517effebb5.png)
  ### Reduces pressure for loans on farmers so farmers continuously take interest in our platform.<br />
 ![Screenshot (222)](https://user-images.githubusercontent.com/60479969/85885895-b8e9d900-b802-11ea-8c45-71f31c0d09f9.png)
-
-![Screenshot (223)](https://user-images.githubusercontent.com/60479969/85885881-b4bdbb80-b802-11ea-8ded-89e0b6a862ac.png)
 ### Increase no of jobs for villagers which is major requirement for any idea to sustain in market.
+![Screenshot (223)](https://user-images.githubusercontent.com/60479969/85885881-b4bdbb80-b802-11ea-8ded-89e0b6a862ac.png)
+
 
 ![Screenshot (224)](https://user-images.githubusercontent.com/60479969/85885887-b6877f00-b802-11ea-9c04-0b5e5c60c1ce.png)
 ### Provide agricultural tools and equipments on rent by the farmers  of same village or nearby villages.
