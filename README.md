@@ -5,7 +5,7 @@
 2. Lack of technology benefits to farmers because of high price of technology or they lack proper  knowledge of technology.
 
 ## Solution
-<BR />
+
  1. Providing a platform to provide essential tools, equipments,  machines required for any type of farming to those farmers who are not able to afford all of these themselves.
  2. Follow rent strategy rather than buy/sell strategy.
  ## So, I come up with an idea to design a website "KRISHI RENTALS" which solves all the follwing issues:
